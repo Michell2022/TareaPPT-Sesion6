@@ -1,0 +1,12 @@
+#hero{
+    height: 100vh;
+    background-image: linear-gradient(
+    0deg,
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+    )
+    ,url(https://www.artperuproyectos.com/images/CentrosEntretenimiento/fondo-centro-entretenimientowb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
