@@ -1,0 +1,41 @@
+.row{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.single_product{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.contenedor{
+    padding-top: 30px;
+}
+
+.producto_imagen{
+    text-align: center;
+    width: 100%;
+}
+
+span{
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.single_product button{
+    background: blueviolet;
+    color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.single_product button:hover{
+    background: rgb(112, 43, 177);
+    color: #fff;
+}
+
+.info{
+    padding-bottom: 20px;
+}

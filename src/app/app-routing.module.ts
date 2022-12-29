@@ -7,6 +7,7 @@ import { ServiciosComponent } from './modulos/usuarios/servicios/servicios.compo
 
 const routes: Routes = [
 
+  { path: '', redirectTo: 'inicio', pathMatch: 'full' },
   { path: 'inicio', component: InicioComponent },
   { path: 'nosotros', component: NosotrosComponent },
   { path: 'servicios', component: ServiciosComponent },

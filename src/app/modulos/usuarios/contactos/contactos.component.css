@@ -1,0 +1,14 @@
+
+#formu{
+    padding-top: 100px;
+}
+
+.row input.enviar{
+    color: blue;
+
+}
+
+.row span.title{
+    font-size: 2em;
+    padding: 20px 0px;
+}

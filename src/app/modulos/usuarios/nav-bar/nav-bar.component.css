@@ -1,0 +1,15 @@
+a.navbar-brand{
+    font-size: 1.8em;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+ul.navbar-nav a{
+    color: #000;
+    font-weight: bold;
+}
+
+ul.navbar-nav a:hover{
+    color: blueviolet;
+    font-weight: bold; 
+}
